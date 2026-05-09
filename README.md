@@ -28,25 +28,25 @@ Compilers • Runtime Systems • Databases • Distributed Systems • Renderin
 
 ### Selected Projects
 
-#### [druk-lang](https://github.com/TON_PSEUDO/druk-lang)
+#### [druk-lang](https://github.com/Etoile-Bleu/druk-lang)
 **LLVM-backed compiled programming language written in C++.**
 * Engineered a custom front-end, parser, and static type system.
 * Built an LLVM IR generation pipeline supporting both JIT and AOT execution.
 * Implemented pattern matching, lambdas, and control-flow analysis.
 
-#### [Modular Arcade Platform](https://github.com/TON_PSEUDO/arcade)
+#### [Modular Arcade Platform](https://github.com/Etoile-Bleu/arcade)
 **Plugin-oriented arcade runtime built in C++.**
 * Architected runtime polymorphism using `dlopen` / `dlsym` / `dlclose`.
 * Designed strict ABI-stable interfaces for dynamic loading.
 * Abstracted rendering backends (SDL2, SFML) loaded dynamically at runtime.
 
-#### [Distributed Communication Backend](https://github.com/TON_PSEUDO/teams-backend)
+#### [Distributed Communication Backend](https://github.com/Etoile-Bleu/teams-backend)
 **Scalable, single-threaded server in Rust.**
 * Implemented a non-blocking event loop multiplexing hundreds of concurrent TCP clients.
 * Engineered a custom protocol for channels, threads, and direct messaging.
 * Designed async networking primitives and internal protocol abstractions.
 
-#### [Unix Shell](https://github.com/TON_PSEUDO/unix-shell)
+#### [Unix Shell](https://github.com/Etoile-Bleu/unix-shell)
 **POSIX-style shell implementation in C.**
 * Built a tokenizer and AST-based parser.
 * Implemented pipe and redirection support alongside robust process management and orchestration.
