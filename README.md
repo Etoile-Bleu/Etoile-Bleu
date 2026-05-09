@@ -56,3 +56,11 @@ Cybersecurity • Compilers • Runtime Systems • Databases • Distributed Sy
 ### Security & Achievements
 * **Top 5 / 90 - Binary Exploitation CTF:** Demonstrated proficiency in stack/heap overflows, GOT overwrites, ROP-style chains, and reverse engineering against custom Linux binaries.
 * **Software Engineering Intern @ AT7 Système:** Modernized legacy enterprise software, secured public surfaces with Nginx, and containerized internal services.
+
+---
+
+### Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Etoile-Bleu&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Contribution Graph" />
+</p>
