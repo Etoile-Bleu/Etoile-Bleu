@@ -12,7 +12,7 @@
 Computer science student (Year 2 @ EPITECH) focused on low-level systems, compilers, and backend engineering. I specialize in building complex systems from the ground up, with a strong emphasis on LLVM infrastructure, runtime environments, and performance optimization. 
 
 ### Interests
-Compilers • Runtime Systems • Databases • Distributed Systems • Rendering Pipelines
+Cybersecurity • Compilers • Runtime Systems • Databases • Distributed Systems • Rendering Pipelines
 
 ### Stack
 <p align="center">
